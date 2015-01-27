@@ -19,7 +19,9 @@
          background-color:#673AB7;
          color:#FFFFFF;
     }
-    
+    header {
+       text-align: center;
+    }
     header img {
        border-radius: 60%;
     }
