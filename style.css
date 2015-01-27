@@ -38,5 +38,7 @@ header h1 {
    font-family: 'Rancho', cursive;
 }
 section{
+   text-align:center;
    background-image: url(http://www.gratisography.com/pictures/105_1.jpg);
+   height: 400px;
 }
