@@ -39,6 +39,7 @@ header h1 {
 }
 section{
    text-align:center;
-   background-image: url(http://www.gratisography.com/pictures/105_1.jpg);
+   background-image: url(https://unsplash.com/photos/Hun_NmE5CIs/download);
    height: 400px;
+   background-size: cover;
 }
