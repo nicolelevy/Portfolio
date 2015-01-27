@@ -43,3 +43,8 @@ section{
    height: 700px;
    background-size: cover;
 }
+element{
+   color: #FFFFFF;
+   background-color: #512DA8;
+   border-radius: 3px;
+}
