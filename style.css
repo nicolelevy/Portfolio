@@ -1,15 +1,16 @@
    
    
     body{
-      background-color: #B6B6B6;
-      color: #C2185B;
+      background-color: #FFFFFF;
+      color: #512DA8;
       font-family: sans-serif;
     }
     nav a {
         text-decoration: none;
-        color:#FFFFFF;
+        color:#9E9E9E;
+        
     }
     
     h2{
-      color: #F8BBD0;
+      color: #727272;
     }
