@@ -43,7 +43,7 @@ section{
    height: 700px;
    background-size: cover;
 }
-element{
+button {
    color: #FFFFFF;
    background-color: #512DA8;
    border-radius: 3px;
