@@ -48,13 +48,19 @@ section{
    background-image: none;
    background-color:#D4D4D4;
    height: 250px;
+
 }
   p {
      color:white;
     background-color: #D7C4B0;
     font-family: impact, haettenschweiler, "arial narrow bold", sans-serif;
-    margin: 0;
+    margin: 15px;
     padding: 20px;
+    width: 200px;
+   display: inline-block;
+  }
+  p:hover{
+     margin-top: -10px;
   }
 button {
    color: #FFFFFF;
