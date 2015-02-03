@@ -61,7 +61,7 @@ section{
    transition: 1s all;
   }
   p:hover{
-     transform: rotate (-7deg);
+     transform: rotate(-7deg);
   }
 button {
    color: #FFFFFF;
