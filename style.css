@@ -43,6 +43,11 @@ section{
    height: 700px;
    background-size: cover;
 }
+#features{
+   background-color: blue;
+   height: 250px;
+}
+
 button {
    color: #FFFFFF;
    background-color: #512DA8;
