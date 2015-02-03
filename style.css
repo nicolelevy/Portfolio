@@ -43,6 +43,7 @@ section{
    background-image: url(https://unsplash.com/photos/0G1r-Cg0zS8/download);
    height: 700px;
    background-size: cover;
+   margin-top: 0;
 }
 #features{
    background-image: none;
@@ -54,9 +55,6 @@ section{
     background-color: #D7C4B0;
     font-family: impact, haettenschweiler, "arial narrow bold", sans-serif;
   }
-img {
-   margin: 0;
-}
 button {
    color: #FFFFFF;
    background-color: #512DA8;
