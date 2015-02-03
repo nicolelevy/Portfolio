@@ -54,7 +54,9 @@ section{
     background-color: #D7C4B0;
     font-family: impact, haettenschweiler, "arial narrow bold", sans-serif;
   }
-
+img {
+   margin: 0;
+}
 button {
    color: #FFFFFF;
    background-color: #512DA8;
