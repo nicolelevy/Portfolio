@@ -58,8 +58,9 @@ section{
 }
 
 h3 {
-   font-size: 15px;
+   font-size: 20px;
    text-align: left;
+   margin-left: 3px;
 }
   p {
      color:white;
