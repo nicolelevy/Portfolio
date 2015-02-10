@@ -6,8 +6,8 @@
       font-family: sans-serif;
       margin: 0;
     }
-    body img {
-       align-items: center;
+    img {
+       vertical-align: middle;
     }
     nav a {
         text-decoration: none;
