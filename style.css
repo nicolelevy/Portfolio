@@ -85,11 +85,14 @@ button {
    margin-top: 40px;
    padding: 5px;
    border: none;
-   text-shadow: 3px 3px 2px white;
+   text-shadow: 1px 1px 1px white;
 }
 article {
     color:white;
     background-color: #6B7D8B;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+article img {
+   margin: 6px ;
 }
