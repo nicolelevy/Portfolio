@@ -86,4 +86,6 @@ button {
 article {
     color:white;
     background-color: #6B7D8B;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
