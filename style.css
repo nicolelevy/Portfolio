@@ -82,6 +82,7 @@ button {
    margin-top: 40px;
    padding: 5px;
    border: none;
+   text-shadow: 3px 3px blur white;
 }
 article {
     color:white;
