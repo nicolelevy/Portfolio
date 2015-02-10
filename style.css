@@ -1,5 +1,7 @@
    
-   
+   nav {
+      text-align: left;
+   }
     body{
       background-color: #FFFFFF;
       color: #858784;
@@ -19,7 +21,7 @@
         padding: 5px;
         display: inline-block;
         transition: 1s all;
-        text-align: left;
+   
     }
     nav a:hover {
          background-color:#673AB7;
