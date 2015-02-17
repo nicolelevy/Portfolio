@@ -96,3 +96,8 @@ article {
 footer img {
    margin: 6px ;
 }
+
+.menu-selected{
+   background-color: #673AB7 ;
+}
+   
