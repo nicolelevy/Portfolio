@@ -78,15 +78,38 @@ h3 {
   p:hover{
      transform: rotate(-7deg);
   }
-button {
-   color: #FFFFFF;
-   background-color: #472363;
-   border-radius: 3px;
-   margin-top: 40px;
-   padding: 5px;
-   border: none;
-   text-shadow: 1px 1px 1px gray;
+.myButton {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #020e80), color-stop(1, #0840fa));
+	background:-moz-linear-gradient(top, #020e80 5%, #0840fa 100%);
+	background:-webkit-linear-gradient(top, #020e80 5%, #0840fa 100%);
+	background:-o-linear-gradient(top, #020e80 5%, #0840fa 100%);
+	background:-ms-linear-gradient(top, #020e80 5%, #0840fa 100%);
+	background:linear-gradient(to bottom, #020e80 5%, #0840fa 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#020e80', endColorstr='#0840fa',GradientType=0);
+	background-color:#020e80;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	padding:9px 23px;
+	text-decoration:none;
 }
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #0840fa), color-stop(1, #020e80));
+	background:-moz-linear-gradient(top, #0840fa 5%, #020e80 100%);
+	background:-webkit-linear-gradient(top, #0840fa 5%, #020e80 100%);
+	background:-o-linear-gradient(top, #0840fa 5%, #020e80 100%);
+	background:-ms-linear-gradient(top, #0840fa 5%, #020e80 100%);
+	background:linear-gradient(to bottom, #0840fa 5%, #020e80 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0840fa', endColorstr='#020e80',GradientType=0);
+	background-color:#0840fa;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
 article {
     color:white;
     background-color: #6B7D8B;
