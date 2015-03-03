@@ -116,6 +116,18 @@ article {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+#expe {
+	background-color: none;
+	padding: none;
+}
+#edu {
+	background-color: none;
+	padding: none;	
+}
+#skills {
+	background-color: none;
+	padding: none;
+}
 main img {
    margin: 6px ;
 }
