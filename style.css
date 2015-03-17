@@ -40,6 +40,7 @@
     }
     h2{
       color: #727272;
+	  background-color:#D4D4D4;
     }
 header h2 {
    font-family: 'Alegreya Sans SC', sans-serif;
@@ -50,14 +51,14 @@ color: #472363;
 }
 section{
    text-align:center;
-   background-image: url(https://farm8.staticflickr.com/7376/15868594223_ea6e8234a4_o.jpg); 
-   height: 700px;
-   background-size: cover;
+   margin-top: 30px;
+   margin-bottom: 30px;
 }
 #features{
    background-image: none;
    background-color:#D4D4D4;
    height: 250px;
+   margin-bottom: 30px;
 }
 
 h3 {
@@ -152,3 +153,14 @@ h4{
 table img{
    width: 300px;
 }
+hr{
+	color: #D4D4D4;
+	border-style: solid;
+	background-color:#D4D4D4;
+	height: 20px;
+}
+#gallery{
+	width:1024px;
+	margin: 0 auto; 
+}
+
